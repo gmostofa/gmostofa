@@ -22,7 +22,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/gmostofa/gmostofa/output/snake.svg" alt="Snake animation" />
+![snake gif](https://github.com/gmostofa/gmostofa/blob/output/github-contribution-grid-snake.gif)
 
 ###
 
@@ -43,5 +43,3 @@
 </div>
 
 ###
-
-![snake gif](https://github.com/gmostofa/gmostofa/blob/output/github-contribution-grid-snake.gif)
