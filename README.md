@@ -6,8 +6,9 @@ Game Developer (Unity 3D)
 
 * 🌍  I'm based in Dhaka
 * ✉️  You can contact me at [mostofart@gmail.com](mailto:mostofart@gmail.com)
-* 🧠  I'm learning Shader Programming in Unity, Android Development using Kotlin
-* 🤝  I'm open to collaborating on Game Development
+* 🧠  Currently I'm learning Shader Programming in Unity, Android Development using Kotlin
+* 🤝  I'm open to collaborating on Game Development in Unity 3D
+* 🏆  Creator of <a href="https://play.google.com/store/apps/details?id=com.alphapotato.prankster">Prank Master 3D (Android)</a>
 
 ### Skills
 
