@@ -8,7 +8,7 @@ Game Developer (Unity 3D)
 * ✉️  You can contact me at [mostofart@gmail.com](mailto:mostofart@gmail.com)
 * 🧠  Currently I'm learning Shader Programming in Unity, Android Development using Kotlin
 * 🤝  I'm open to collaborating on Game Development in Unity 3D
-* 🏆  Creator of <a href="https://play.google.com/store/apps/details?id=com.alphapotato.prankster" target="_blank">Prank Master 3D (Android)</a>
+* 🏆  Creator of <a href="https://play.google.com/store/apps/details?id=com.alphapotato.prankster" target="_blank">Prank Master 3D (Android)</a> & <a href="https://apps.apple.com/us/app/prank-master-3d/id1528127833" target="_blank">Prank Master 3D (IOS)</a>
 
 ### Skills
 
