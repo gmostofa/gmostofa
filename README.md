@@ -53,13 +53,9 @@ I specialize in building gameplay programming for hyper casual, Hybrid casual, C
 </div>  
 
 <br/>  
-<table><tr><td valign="top" width="50%">
-
-</td><td valign="top" width="50%">
-
-</td></tr></table>  
 <br/>  
-<br/>  
+
 ![Profile views counter](https://komarev.com/ghpvc/?username=gmostofa&&style=flat-square)  
+  
 <br/>  
 <br />
