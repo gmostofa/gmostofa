@@ -79,6 +79,3 @@ I specialize in building gameplay programming for hyper casual, Hybrid casual, C
 
 
 <br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
