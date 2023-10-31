@@ -25,10 +25,6 @@ I specialize in building gameplay programming for hyper casual, Hybrid casual, C
 
 <br/>  
 
-
-## Rapidfire  
-<table><tr><td valign="top" width="50%">
-
 - 🔭Creator of [Prank Master 3D Android](https://play.google.com/store/apps/details?id=com.alphapotato.prankster) & [Prank Master 3D IOS](https://apps.apple.com/us/app/prank-master-3d/id1528127833)  
   
 
@@ -39,13 +35,7 @@ I specialize in building gameplay programming for hyper casual, Hybrid casual, C
   
 
 - 🤝I'm open to collaborating on Game Development in Unity 3D  
-
-
-</td><td valign="top" width="50%">
-
-
-
-</td></tr></table>  
+  
 
 <br/>  
 
