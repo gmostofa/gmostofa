@@ -36,9 +36,7 @@ I specialize in building gameplay programming for hyper casual, Hybrid casual, C
 
 - 🤝I'm open to collaborating on Game Development in Unity 3D  
   
-
 <br/>  
-
 
 ## Languages and Tools  
 <div align="center">  
