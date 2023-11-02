@@ -15,8 +15,6 @@
 </a>  
   
 
-
-
 ### Glad to see you here!  
 I’m a full-stack game developer working on unity 3D for more than 6+ years. 
 
