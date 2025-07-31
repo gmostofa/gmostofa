@@ -22,13 +22,10 @@ I specialize in building gameplay programming for hyper casual, Hybrid casual, C
 
 - 🔭Creator of [Prank Master 3D Android](https://play.google.com/store/apps/details?id=com.alphapotato.prankster) & [Prank Master 3D IOS](https://apps.apple.com/us/app/prank-master-3d/id1528127833)  
   
-
 - 🌱I’m currently learning Shader Programming & DOTS 
   
-
 - ❓ Ask me about anything related to Game Development and Unity technologies  
   
-
 - 🤝I'm open to collaborating on Game Development in Unity 3D  
   
 <br/>  
