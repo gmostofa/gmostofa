@@ -13,13 +13,12 @@
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>  
 
-
-  
 ### Glad to see you here!  
 I’m a full-stack game developer working on unity 3D for more than 7+ years. 
 
 I specialize in building gameplay programming for hyper casual, Hybrid casual, Casual, strategy, Puzzle, Arcade, Action Arcade game genre.   
-  
+
+
 <br/>  
 
 - 🔭Creator of [Prank Master 3D Android](https://play.google.com/store/apps/details?id=com.alphapotato.prankster) & [Prank Master 3D IOS](https://apps.apple.com/us/app/prank-master-3d/id1528127833)  
