@@ -1,7 +1,5 @@
 ## Hey 👋, Introducing Golam Mostofa (GM)  
 
-
-  
 <a href="https://linkedin.com/in/golammostofa007" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
@@ -19,7 +17,6 @@
 I’m a full-stack game developer working on unity 3D for more than 7+ years. 
 
 I specialize in building gameplay programming for hyper casual, Hybrid casual, Casual, strategy, Puzzle, Arcade, Action Arcade game genre.   
-
 
 <br/>  
 
