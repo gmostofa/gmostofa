@@ -46,9 +46,9 @@
 ---
 
 ## 🔥 **What I'm Working On**
-- 🖥 **Unity Shader Programming** & **DOTS (Data-Oriented Tech Stack)**  
+- 🖥 **Learning Unity Shader Programming** & **DOTS (Data-Oriented Tech Stack)**  
 - 🧩 Building **Hyper-Casual & Hybrid Casual Games**  
-- ✍ Creating tutorials on **Unity Game Development**  
+- ✍ Creating tutorials on **Unity Game Development** on Youtube  
 - 💻 Solving **Data Structures & Algorithms** problems on **LeetCode**  
 
 ---
@@ -66,24 +66,12 @@
 <img src="https://github-readme-stats.vercel.app/api?username=gmostofa&show_icons=true&theme=tokyonight" height="165"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gmostofa&layout=compact&theme=tokyonight" height="165"/>
 </p>
-
----
-
-## 🏆 **GitHub Trophies**
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=gmostofa&theme=onedark" />
-</p>
-
 ---
 
 ## 📈 **LeetCode Progress**
 I’m actively sharpening my problem-solving skills:  
-[![LeetCode Stats](https://leetcard.jacoblin.cool/gmostofa?theme=dark&font=Karma&ext=activity)](https://leetcode.com/gmostofa/)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/gmostofa?theme=dark&font=Karma)](https://leetcode.com/gmostofa/)
 
----
-
-## 💡 **Fun Fact**
-🎮 *When I’m not coding or solving algorithms, I’m exploring new game mechanics, creating design prototypes, or enjoying a good strategy game.*  
 
 ---
 
