@@ -1,51 +1,91 @@
-## Hey 👋, Introducing Golam Mostofa (GM)  
+# 👋 Hey there, I'm **Golam Mostofa (GM)**  
 
-<a href="https://linkedin.com/in/golammostofa007" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.facebook.com/golammostofa007" target="_blank">
-<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/mostofa.gm" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>
-<a href="https://github.com/gmostofa" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>  
+<p align="center">
+  <a href="https://linkedin.com/in/golammostofa007" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.facebook.com/golammostofa007" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/mostofa.gm" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://github.com/gmostofa" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
-### Glad to see you here!  
-I’m a full-stack game developer working on unity 3D for more than 7+ years. 
+---
 
-I specialize in building gameplay programming for hyper casual, Hybrid casual, Casual, strategy, Puzzle, Arcade, Action Arcade game genre.   
+## 🎮 **Game Developer | Unity Specialist | Problem Solver**
 
-<br/>  
+💡 I’m a **Full-Stack Game Developer** with **7+ years of experience** creating engaging and scalable games using **Unity 3D**. My expertise spans **Hyper-Casual, Hybrid Casual, Casual, Puzzle, Arcade, and Strategy** game genres. I’ve developed and published multiple successful games on **Google Play Store** and **Apple App Store**, reaching millions of players worldwide.
 
-- 🔭Creator of [Prank Master 3D Android](https://play.google.com/store/apps/details?id=com.alphapotato.prankster) & [Prank Master 3D IOS](https://apps.apple.com/us/app/prank-master-3d/id1528127833)  
-  
-- 🌱I’m currently learning Shader Programming & DOTS 
-  
-- ❓ Ask me about anything related to Game Development and Unity technologies  
-  
-- 🤝I'm open to collaborating on Game Development in Unity 3D  
-  
-<br/>  
+---
 
-## Languages and Tools  
-<div align="center">  
-<a href="https://unity.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/unity.png" alt="Unity" height="50" /></a>  
-<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" /></a>  
-<a href="https://kotlinlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kotlinlang-icon.svg" alt="Kotlin" height="50" /></a>  
-<a href="https://www.android.com/intl/en_in/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/android-original-wordmark.svg" alt="Android" height="50" /></a>  
-<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
-<a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-</div>  
-<br/>  
-<br/>  
+### 🚀 **About Me**
+- ✅ **100M+ downloads** across games I’ve worked on  
+- 🔭 Creator of **[Prank Master 3D (Android)](https://play.google.com/store/apps/details?id=com.alphapotato.prankster)** & **[Prank Master 3D (iOS)](https://apps.apple.com/us/app/prank-master-3d/id1528127833)**  
+- 📱 Contributor to **[Pawn Shop Master](https://play.google.com/store/apps/details?id=com.alphapotato.pawnshopmaster)**  
+- 🎯 Experienced in **Gameplay Programming, Performance Optimization, and Scalable Game Architecture**  
+- 🌱 Currently learning **Shader Programming**, **DOTS**, and improving my **competitive programming skills on LeetCode**  
+- 🤝 Open to collaboration on Unity-based projects and game development consulting  
 
+---
 
+## 🛠 **Languages & Tools**
+<p align="center">
+<img src="https://profilinator.rishav.dev/skills-assets/unity.png" height="50" />  
+<img src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" height="50" />  
+<img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" height="50" />  
+<img src="https://profilinator.rishav.dev/skills-assets/android-original-wordmark.svg" height="50" />  
+<img src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" height="50" />  
+<img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" height="50" />  
+</p>
 
+---
+
+## 🔥 **What I'm Working On**
+- 🖥 **Unity Shader Programming** & **DOTS (Data-Oriented Tech Stack)**  
+- 🧩 Building **Hyper-Casual & Hybrid Casual Games**  
+- ✍ Creating tutorials on **Unity Game Development**  
+- 💻 Solving **Data Structures & Algorithms** problems on **LeetCode**  
+
+---
+
+## 🚀 **Featured Projects**
+- 🎭 [**Prank Master 3D**](https://play.google.com/store/apps/details?id=com.alphapotato.prankster) – A fun hyper-casual prank game with millions of downloads.  
+- 🏪 [**Pawn Shop Master**](https://play.google.com/store/apps/details?id=com.alphapotato.pawnshopmaster) – A unique pawn shop simulation game.  
+- 🧩 [**Fit Master 3D**](https://gmostofa.itch.io/fit-master-3d) – Puzzle-based fitting game available on itch.io.  
+- 🌳 [**Treezzle**](https://gmostofa.itch.io/treezzle) – A nature-themed puzzle game on itch.io.  
+
+---
+
+## 📊 **GitHub Stats**
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=gmostofa&show_icons=true&theme=tokyonight" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gmostofa&layout=compact&theme=tokyonight" height="165"/>
+</p>
+
+---
+
+## 🏆 **GitHub Trophies**
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=gmostofa&theme=onedark" />
+</p>
+
+---
+
+## 📈 **LeetCode Progress**
+I’m actively sharpening my problem-solving skills:  
+[![LeetCode Stats](https://leetcard.jacoblin.cool/gmostofa?theme=dark&font=Karma&ext=activity)](https://leetcode.com/gmostofa/)
+
+---
+
+## 💡 **Fun Fact**
+🎮 *When I’m not coding or solving algorithms, I’m exploring new game mechanics, creating design prototypes, or enjoying a good strategy game.*  
+
+---
+
+### **Profile Views**  
 ![Profile views counter](https://komarev.com/ghpvc/?username=gmostofa&&style=flat-square)  
-<br/>  
-<br />
