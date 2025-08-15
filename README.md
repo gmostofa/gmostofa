@@ -50,7 +50,7 @@
 ## 🔥 **What I'm Working On**
 - 🖥 **Learning Unity Shader Programming** & **DOTS (Data-Oriented Tech Stack)**  
 - 🧩 Building **Hyper-Casual & Hybrid Casual Games**  
-- ✍ Creating tutorials on **Unity Game Development** on Youtube  
+- ✍ Creating tutorials on **Unity Game Development** on **Youtube**  
 - 💻 Solving **Data Structures & Algorithms** problems on **LeetCode**  
 
 ---
