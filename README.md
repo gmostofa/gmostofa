@@ -1,5 +1,4 @@
 # 👋 Hey there, I'm **Golam Mostofa (GM)**  
-
 <p align="center">
   <a href="https://linkedin.com/in/golammostofa007" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -14,8 +13,6 @@
     <img src="https://img.shields.io/badge/GitHub-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
-
-
 
 ---
 
