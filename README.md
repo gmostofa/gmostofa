@@ -42,7 +42,8 @@
 <img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" height="50" />  
 </p>
 ---
-## 🔥 **What I'm Working On**
+
+## 🚀 **What i am learning on**
 
 - 🖥 **Learning Unity Shader Programming** & **DOTS (Data-Oriented Tech Stack)**  
 - 🧩 Building **Hyper-Casual & Hybrid Casual Games**  
