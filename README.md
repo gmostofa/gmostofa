@@ -41,9 +41,7 @@
 <img src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" height="50" />  
 <img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" height="50" />  
 </p>
-
 ---
-
 ## 🔥 **What I'm Working On**
 - 🖥 **Learning Unity Shader Programming** & **DOTS (Data-Oriented Tech Stack)**  
 - 🧩 Building **Hyper-Casual & Hybrid Casual Games**  
@@ -65,8 +63,6 @@
 <img src="https://github-readme-stats.vercel.app/api?username=gmostofa&show_icons=true&theme=tokyonight" height="165"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gmostofa&layout=compact&theme=tokyonight" height="165"/>
 </p>
-
-
 ---
 
 ## 📈 **LeetCode Progress**
