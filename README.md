@@ -43,7 +43,7 @@
 </p>
 ---
 
-## 🚀 **What i am learning on**
+## 🚀 **What i am working on**
 
 - 🖥 **Learning Unity Shader Programming** & **DOTS (Data-Oriented Tech Stack)**  
 - 🧩 Building **Hyper-Casual & Hybrid Casual Games**  
