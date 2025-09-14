@@ -81,7 +81,5 @@ I’m actively sharpening my problem-solving skills:
 
 ---
 
-
-
 ### **Profile Views**  
 ![Profile views counter](https://komarev.com/ghpvc/?username=gmostofa&&style=flat-square)  
