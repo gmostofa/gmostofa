@@ -23,7 +23,7 @@
 ---
 
 ### 🚀 **About Me**
-- ✅ **100M+ downloads** across games I’ve worked on  
+- ✅ **150M+ downloads** across worldwide, games I’ve worked on  
 - 🔭 Creator of **[Prank Master 3D (Android)](https://play.google.com/store/apps/details?id=com.alphapotato.prankster)** & **[Prank Master 3D (iOS)](https://apps.apple.com/us/app/prank-master-3d/id1528127833)**  
 - 📱 Contributor to **[Pawn Shop Master](https://play.google.com/store/apps/details?id=com.alphapotato.pawnshopmaster)**  
 - 🎯 Experienced in **Gameplay Programming, Performance Optimization, and Scalable Game Architecture**  
